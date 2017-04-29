@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"in",
+				"indent"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"se",
+				"section\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/League of Legends.app/Contents/LoL/Config/ItemSets.json",
+		"/Applications/League of Legends.app/Contents/LoL/Config/Champions/Yasuo/Recommended/RIOT_ItemSet_1.json",
+		"/Applications/League of Legends.app/Contents/LoL/Config/Champions/Zed/Recommended/RIOT_ItemSet_1.json",
+		"/Applications/League of Legends.app/Contents/LoL/Config/Champions/Vayne/Recommended/RIOT_ItemSet_1.json",
+		"/Users/justinmak/Google Drive/Explorations/Y10 Exp/Culture & Tradition/globalisation-foodculture/index.html",
+		"/Users/justinmak/Google Drive/Explorations/Y10 Exp/Culture & Tradition/globalisation-foodculture/global.html",
+		"/Users/justinmak/Google Drive/Explorations/Y10 Exp/Culture & Tradition/globalisation-foodculture/national.html",
+		"/Users/justinmak/Google Drive/Explorations/Y10 Exp/Culture & Tradition/globalisation-foodculture/personal.html",
+		"/Users/justinmak/Google Drive/Explorations/Y10 Exp/Culture & Tradition/globalisation-foodculture/future.html",
+		"/Users/justinmak/Google Drive/Explorations/Y10 Exp/Culture & Tradition/globalisation-foodculture/end.html",
+		"/Users/justinmak/Downloads/Food culture website/elements.html",
+		"/Users/justinmak/Downloads/Food culture website/national.html",
+		"/Users/justinmak/Downloads/Food culture website/global.html",
+		"/Users/justinmak/Downloads/Food culture website/index.html",
+		"/Users/justinmak/Downloads/Food culture website/personal.html",
+		"/Users/justinmak/Downloads/html5up-landed/index.html",
+		"/Users/justinmak/Desktop/Dota 2.app/Contents/MacOS/run.sh",
+		"/Users/justinmak/Desktop/untitled.html",
+		"/Users/justinmak/Desktop/Voldemort.html",
+		"/Users/justinmak/Desktop/Sport and Recreation Website/football-positions.github.io/index.html",
+		"/Users/justinmak/Desktop/Sport and Recreation Website/index.html",
+		"/Users/justinmak/Desktop/Sport and Recreation Website/analysis.html",
+		"/Users/justinmak/Desktop/Hidden Mui Wo website/index.html",
+		"/Users/justinmak/Desktop/Hidden Hong Kong website/index.html",
+		"/Users/justinmak/Desktop/HI AAYUSH!!!.html",
+		"/Users/justinmak/Desktop/HI AAYUSH!!!",
+		"/Applications/MAMP/htdocs/db_connect.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/index.html",
+		"/Applications/MAMP/htdocs/index1.php",
+		"/Users/justinmak/Desktop/BSD Coding/social msg website/create account.html",
+		"/Users/justinmak/Desktop/BSD Coding/create account.html",
+		"/Users/justinmak/Desktop/BSD Coding/Theme Template for Bootstrap.html",
+		"/Users/justinmak/Desktop/BSD Coding/index.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/work.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/intro.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/contact.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/me.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/Contact.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/Intro.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/Index.html",
+		"/Users/justinmak/Desktop/BSD Coding/html5up-zerofour/index.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/Home.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/css/style.css",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/html5up-parallelism (2)/Contact.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/html5up-parallelism (2)/Work.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/html5up-parallelism (2)/About.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/html5up-parallelism (2)/Intro.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/html5up-parallelism (2)/Home.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/html5up-parallelism (2)/README.txt",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/Work.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/About.html",
+		"/Users/justinmak/Desktop/BSD Coding/jquoerlix.github.io/html5up-parallelism (2)/LICENSE.txt",
+		"/Users/justinmak/Downloads/html5up-parallelism (1)/intro.html",
+		"/Users/justinmak/Downloads/html5up-parallelism (2)/index.html",
+		"/Users/justinmak/Downloads/html5up-parallelism (1)/index.html",
+		"/Users/justinmak/Desktop/HTML Basic Structure.html",
+		"/Users/justinmak/Desktop/html5up-parallelism/index.html",
+		"/Users/justinmak/Desktop/html5up-parallelism/index2.html",
+		"/Users/justinmak/Desktop/html5up-big-picture/index.html",
+		"/Users/justinmak/Downloads/html5up-big-picture/index.html",
+		"/Users/justinmak/Pictures/cartoon hockey.jpg"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"banner.jpg",
+			"thumb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
